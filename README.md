@@ -1,2 +1,2 @@
 # IamBeginner
-Here is my firsts codes.
+Here is my first coding Java project
